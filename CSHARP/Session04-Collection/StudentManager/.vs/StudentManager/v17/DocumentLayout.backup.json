@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{983765A4-3517-483A-A1B5-6C56E181DE5A}|StudentManager\\StudentManager.csproj|d:\\prn212\\csharp\\session04-collection\\studentmanager\\studentmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983765A4-3517-483A-A1B5-6C56E181DE5A}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\StudentManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StudentManager\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\StudentManager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StudentManager\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T10:29:46.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

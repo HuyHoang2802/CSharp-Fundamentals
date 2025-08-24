@@ -1,0 +1,5 @@
+{
+    "ConnectionStrings": {
+        "DBDefault": "Server=DESKTOP-C19F3GO\\HOANG;Database=PRN212_DatabaseFirst;User ID=sa;Password=12345;TrustServerCertificate=True"
+    }
+}

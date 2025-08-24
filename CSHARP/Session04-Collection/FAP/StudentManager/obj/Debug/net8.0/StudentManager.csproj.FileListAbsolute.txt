@@ -1,0 +1,14 @@
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManager\bin\Debug\net8.0\StudentManager.exe
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManager\bin\Debug\net8.0\StudentManager.deps.json
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManager\bin\Debug\net8.0\StudentManager.runtimeconfig.json
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManager\bin\Debug\net8.0\StudentManager.dll
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManager\bin\Debug\net8.0\StudentManager.pdb
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\StudentManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\StudentManager.AssemblyInfoInputs.cache
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\StudentManager.AssemblyInfo.cs
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\StudentManager.csproj.CoreCompileInputs.cache
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\StudentManager.dll
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\refint\StudentManager.dll
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\StudentManager.pdb
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\StudentManager.genruntimeconfig.cache
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\ref\StudentManager.dll

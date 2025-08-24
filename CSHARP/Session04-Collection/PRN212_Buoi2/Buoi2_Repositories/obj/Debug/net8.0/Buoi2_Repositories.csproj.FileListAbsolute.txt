@@ -1,0 +1,16 @@
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_Repositories\bin\Debug\net8.0\Buoi2_Repositories.deps.json
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_Repositories\bin\Debug\net8.0\Buoi2_Repositories.dll
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_Repositories\bin\Debug\net8.0\Buoi2_Repositories.pdb
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_Repositories\bin\Debug\net8.0\Buoi2_DataAccess.dll
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_Repositories\bin\Debug\net8.0\Buoi2_DataAccess.pdb
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_Repositories\obj\Debug\net8.0\Buoi2_Repositories.csproj.AssemblyReference.cache
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_Repositories\obj\Debug\net8.0\Buoi2_Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_Repositories\obj\Debug\net8.0\Buoi2_Repositories.AssemblyInfoInputs.cache
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_Repositories\obj\Debug\net8.0\Buoi2_Repositories.AssemblyInfo.cs
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_Repositories\obj\Debug\net8.0\Buoi2_Repositories.csproj.CoreCompileInputs.cache
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_Repositories\obj\Debug\net8.0\Buoi2_Re.4C200ED5.Up2Date
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_Repositories\obj\Debug\net8.0\Buoi2_Repositories.dll
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_Repositories\obj\Debug\net8.0\refint\Buoi2_Repositories.dll
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_Repositories\obj\Debug\net8.0\Buoi2_Repositories.pdb
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_Repositories\obj\Debug\net8.0\ref\Buoi2_Repositories.dll
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_Repositories\bin\Debug\net8.0\appsetting.json

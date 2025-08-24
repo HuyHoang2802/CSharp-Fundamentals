@@ -1,0 +1,17 @@
+D:\VisualStudio\Group05_SE1851_A02\DataAcesssLayer\bin\Debug\net8.0\DataAcesssLayer.deps.json
+D:\VisualStudio\Group05_SE1851_A02\DataAcesssLayer\bin\Debug\net8.0\DataAcesssLayer.runtimeconfig.json
+D:\VisualStudio\Group05_SE1851_A02\DataAcesssLayer\bin\Debug\net8.0\DataAcesssLayer.dll
+D:\VisualStudio\Group05_SE1851_A02\DataAcesssLayer\bin\Debug\net8.0\DataAcesssLayer.pdb
+D:\VisualStudio\Group05_SE1851_A02\DataAcesssLayer\bin\Debug\net8.0\BusinessObject.dll
+D:\VisualStudio\Group05_SE1851_A02\DataAcesssLayer\bin\Debug\net8.0\BusinessObject.pdb
+D:\VisualStudio\Group05_SE1851_A02\DataAcesssLayer\obj\Debug\net8.0\DataAcesssLayer.csproj.AssemblyReference.cache
+D:\VisualStudio\Group05_SE1851_A02\DataAcesssLayer\obj\Debug\net8.0\DataAcesssLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Group05_SE1851_A02\DataAcesssLayer\obj\Debug\net8.0\DataAcesssLayer.AssemblyInfoInputs.cache
+D:\VisualStudio\Group05_SE1851_A02\DataAcesssLayer\obj\Debug\net8.0\DataAcesssLayer.AssemblyInfo.cs
+D:\VisualStudio\Group05_SE1851_A02\DataAcesssLayer\obj\Debug\net8.0\DataAcesssLayer.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Group05_SE1851_A02\DataAcesssLayer\obj\Debug\net8.0\DataAces.9E05FC63.Up2Date
+D:\VisualStudio\Group05_SE1851_A02\DataAcesssLayer\obj\Debug\net8.0\DataAcesssLayer.dll
+D:\VisualStudio\Group05_SE1851_A02\DataAcesssLayer\obj\Debug\net8.0\refint\DataAcesssLayer.dll
+D:\VisualStudio\Group05_SE1851_A02\DataAcesssLayer\obj\Debug\net8.0\DataAcesssLayer.pdb
+D:\VisualStudio\Group05_SE1851_A02\DataAcesssLayer\obj\Debug\net8.0\DataAcesssLayer.genruntimeconfig.cache
+D:\VisualStudio\Group05_SE1851_A02\DataAcesssLayer\obj\Debug\net8.0\ref\DataAcesssLayer.dll

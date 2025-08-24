@@ -1,0 +1,14 @@
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\ListBasic\bin\Debug\net8.0\ListBasic.exe
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\ListBasic\bin\Debug\net8.0\ListBasic.deps.json
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\ListBasic\bin\Debug\net8.0\ListBasic.runtimeconfig.json
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\ListBasic\bin\Debug\net8.0\ListBasic.dll
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\ListBasic\bin\Debug\net8.0\ListBasic.pdb
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\ListBasic\obj\Debug\net8.0\ListBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\ListBasic\obj\Debug\net8.0\ListBasic.AssemblyInfoInputs.cache
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\ListBasic\obj\Debug\net8.0\ListBasic.AssemblyInfo.cs
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\ListBasic\obj\Debug\net8.0\ListBasic.csproj.CoreCompileInputs.cache
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\ListBasic\obj\Debug\net8.0\ListBasic.dll
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\ListBasic\obj\Debug\net8.0\refint\ListBasic.dll
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\ListBasic\obj\Debug\net8.0\ListBasic.pdb
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\ListBasic\obj\Debug\net8.0\ListBasic.genruntimeconfig.cache
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\ListBasic\obj\Debug\net8.0\ref\ListBasic.dll

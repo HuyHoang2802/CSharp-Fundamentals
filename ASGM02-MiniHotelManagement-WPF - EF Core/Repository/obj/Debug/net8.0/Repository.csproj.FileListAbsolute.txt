@@ -1,0 +1,17 @@
+D:\VisualStudio\Group05_SE1851_A02\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\VisualStudio\Group05_SE1851_A02\Repository\bin\Debug\net8.0\Repository.dll
+D:\VisualStudio\Group05_SE1851_A02\Repository\bin\Debug\net8.0\Repository.pdb
+D:\VisualStudio\Group05_SE1851_A02\Repository\bin\Debug\net8.0\BusinessObject.dll
+D:\VisualStudio\Group05_SE1851_A02\Repository\bin\Debug\net8.0\DataAcesssLayer.dll
+D:\VisualStudio\Group05_SE1851_A02\Repository\bin\Debug\net8.0\DataAcesssLayer.pdb
+D:\VisualStudio\Group05_SE1851_A02\Repository\bin\Debug\net8.0\BusinessObject.pdb
+D:\VisualStudio\Group05_SE1851_A02\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\VisualStudio\Group05_SE1851_A02\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Group05_SE1851_A02\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\VisualStudio\Group05_SE1851_A02\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\VisualStudio\Group05_SE1851_A02\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Group05_SE1851_A02\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+D:\VisualStudio\Group05_SE1851_A02\Repository\obj\Debug\net8.0\Repository.dll
+D:\VisualStudio\Group05_SE1851_A02\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\VisualStudio\Group05_SE1851_A02\Repository\obj\Debug\net8.0\Repository.pdb
+D:\VisualStudio\Group05_SE1851_A02\Repository\obj\Debug\net8.0\ref\Repository.dll

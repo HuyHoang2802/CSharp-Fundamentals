@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F21C31-AC28-4E1E-A199-F18CE672676B}|Repository\\Repository.csproj|d:\\prn212\\csharp\\session04-collection\\studentmanager\\repository\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F21C31-AC28-4E1E-A199-F18CE672676B}|Repository\\Repository.csproj|solutionrelative:repository\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F21C31-AC28-4E1E-A199-F18CE672676B}|Repository\\Repository.csproj|d:\\prn212\\csharp\\session04-collection\\studentmanager\\repository\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F21C31-AC28-4E1E-A199-F18CE672676B}|Repository\\Repository.csproj|solutionrelative:repository\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE93A78A-1D3B-489F-A53A-7855D74367DB}|DataAccess\\DataAccess.csproj|d:\\prn212\\csharp\\session04-collection\\studentmanager\\dataaccess\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE93A78A-1D3B-489F-A53A-7855D74367DB}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F21C31-AC28-4E1E-A199-F18CE672676B}|Repository\\Repository.csproj|d:\\prn212\\csharp\\session04-collection\\studentmanager\\repository\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F21C31-AC28-4E1E-A199-F18CE672676B}|Repository\\Repository.csproj|solutionrelative:repository\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F21C31-AC28-4E1E-A199-F18CE672676B}|Repository\\Repository.csproj|d:\\prn212\\csharp\\session04-collection\\studentmanager\\repository\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F21C31-AC28-4E1E-A199-F18CE672676B}|Repository\\Repository.csproj|solutionrelative:repository\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F21C31-AC28-4E1E-A199-F18CE672676B}|Repository\\Repository.csproj|d:\\prn212\\csharp\\session04-collection\\studentmanager\\repository\\rolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F21C31-AC28-4E1E-A199-F18CE672676B}|Repository\\Repository.csproj|solutionrelative:repository\\rolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE93A78A-1D3B-489F-A53A-7855D74367DB}|DataAccess\\DataAccess.csproj|d:\\prn212\\csharp\\session04-collection\\studentmanager\\dataaccess\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE93A78A-1D3B-489F-A53A-7855D74367DB}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F21C31-AC28-4E1E-A199-F18CE672676B}|Repository\\Repository.csproj|d:\\prn212\\csharp\\session04-collection\\studentmanager\\repository\\dto\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F21C31-AC28-4E1E-A199-F18CE672676B}|Repository\\Repository.csproj|solutionrelative:repository\\dto\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983765A4-3517-483A-A1B5-6C56E181DE5A}|StudentManager\\StudentManager.csproj|d:\\prn212\\csharp\\session04-collection\\studentmanager\\studentmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{983765A4-3517-483A-A1B5-6C56E181DE5A}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983765A4-3517-483A-A1B5-6C56E181DE5A}|StudentManager\\StudentManager.csproj|d:\\prn212\\csharp\\session04-collection\\studentmanager\\studentmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983765A4-3517-483A-A1B5-6C56E181DE5A}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\Repository\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\StudentRepo.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\Repository\\StudentRepo.cs",
+              "RelativeToolTip": "Repository\\StudentRepo.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAxwDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:58:11.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\DataAccess\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Student.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\DataAccess\\Models\\Student.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:57:26.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\Repository\\DTO\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Repository\\DTO\\StudentDTO.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\Repository\\DTO\\StudentDTO.cs",
+              "RelativeToolTip": "Repository\\DTO\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:56:50.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\DataAccess\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Role.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\DataAccess\\Models\\Role.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:25:02.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\Repository\\DTO\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "Repository\\DTO\\RoleDTO.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\Repository\\DTO\\RoleDTO.cs",
+              "RelativeToolTip": "Repository\\DTO\\RoleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:24:42.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleRepo.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\Repository\\RoleRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\RoleRepo.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\Repository\\RoleRepo.cs",
+              "RelativeToolTip": "Repository\\RoleRepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:24:01.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountRepo.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\Repository\\AccountRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\AccountRepo.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\Repository\\AccountRepo.cs",
+              "RelativeToolTip": "Repository\\AccountRepo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:00:05.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountDTO.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\Repository\\DTO\\AccountDTO.cs",
+              "RelativeDocumentMoniker": "Repository\\DTO\\AccountDTO.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\Repository\\DTO\\AccountDTO.cs",
+              "RelativeToolTip": "Repository\\DTO\\AccountDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T10:58:25.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\StudentManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StudentManager\\MainWindow.xaml",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\StudentManager\\MainWindow.xaml",
+              "RelativeToolTip": "StudentManager\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T10:29:48.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\StudentManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StudentManager\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\CSHARP\\Session04-Collection\\StudentManager\\StudentManager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StudentManager\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T10:29:46.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

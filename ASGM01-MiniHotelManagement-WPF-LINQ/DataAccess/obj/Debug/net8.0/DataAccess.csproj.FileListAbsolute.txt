@@ -1,0 +1,63 @@
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\DataAccess\bin\Debug\net8.0\appsettings.json
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\DataAccess\bin\Debug\net8.0\appsettings.json
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+D:\PRN212\demo\DataAccess\bin\Debug\net8.0\appsettings.json
+D:\PRN212\demo\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\PRN212\demo\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+D:\PRN212\demo\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\PRN212\demo\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\PRN212\demo\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\PRN212\demo\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\demo\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\PRN212\demo\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\PRN212\demo\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\PRN212\demo\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+D:\PRN212\demo\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\PRN212\demo\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\PRN212\demo\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\PRN212\demo\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+D:\PRN212\demo\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\DataAccess\bin\Debug\net8.0\appsettings.json
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

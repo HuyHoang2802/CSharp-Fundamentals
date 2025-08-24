@@ -1,0 +1,15 @@
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_DataAccess\bin\Debug\net8.0\Buoi2_DataAccess.deps.json
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_DataAccess\bin\Debug\net8.0\Buoi2_DataAccess.runtimeconfig.json
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_DataAccess\bin\Debug\net8.0\Buoi2_DataAccess.dll
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_DataAccess\bin\Debug\net8.0\Buoi2_DataAccess.pdb
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_DataAccess\obj\Debug\net8.0\Buoi2_DataAccess.csproj.AssemblyReference.cache
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_DataAccess\obj\Debug\net8.0\Buoi2_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_DataAccess\obj\Debug\net8.0\Buoi2_DataAccess.AssemblyInfoInputs.cache
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_DataAccess\obj\Debug\net8.0\Buoi2_DataAccess.AssemblyInfo.cs
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_DataAccess\obj\Debug\net8.0\Buoi2_DataAccess.csproj.CoreCompileInputs.cache
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_DataAccess\obj\Debug\net8.0\Buoi2_DataAccess.dll
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_DataAccess\obj\Debug\net8.0\refint\Buoi2_DataAccess.dll
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_DataAccess\obj\Debug\net8.0\Buoi2_DataAccess.pdb
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_DataAccess\obj\Debug\net8.0\Buoi2_DataAccess.genruntimeconfig.cache
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_DataAccess\obj\Debug\net8.0\ref\Buoi2_DataAccess.dll
+D:\PRN212\CSHARP\Session04-Collection\PRN212_Buoi2\Buoi2_DataAccess\bin\Debug\net8.0\appsetting.json

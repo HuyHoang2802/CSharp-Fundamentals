@@ -1,0 +1,15 @@
+D:\VisualStudio\Group05_SE1851_A02\DataAccessObject\bin\Debug\net8.0\DataAccessObject.deps.json
+D:\VisualStudio\Group05_SE1851_A02\DataAccessObject\bin\Debug\net8.0\DataAccessObject.dll
+D:\VisualStudio\Group05_SE1851_A02\DataAccessObject\bin\Debug\net8.0\DataAccessObject.pdb
+D:\VisualStudio\Group05_SE1851_A02\DataAccessObject\bin\Debug\net8.0\BusinessObject.dll
+D:\VisualStudio\Group05_SE1851_A02\DataAccessObject\bin\Debug\net8.0\BusinessObject.pdb
+D:\VisualStudio\Group05_SE1851_A02\DataAccessObject\obj\Debug\net8.0\DataAccessObject.csproj.AssemblyReference.cache
+D:\VisualStudio\Group05_SE1851_A02\DataAccessObject\obj\Debug\net8.0\DataAccessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Group05_SE1851_A02\DataAccessObject\obj\Debug\net8.0\DataAccessObject.AssemblyInfoInputs.cache
+D:\VisualStudio\Group05_SE1851_A02\DataAccessObject\obj\Debug\net8.0\DataAccessObject.AssemblyInfo.cs
+D:\VisualStudio\Group05_SE1851_A02\DataAccessObject\obj\Debug\net8.0\DataAccessObject.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Group05_SE1851_A02\DataAccessObject\obj\Debug\net8.0\DataAcce.FCD2CC32.Up2Date
+D:\VisualStudio\Group05_SE1851_A02\DataAccessObject\obj\Debug\net8.0\DataAccessObject.dll
+D:\VisualStudio\Group05_SE1851_A02\DataAccessObject\obj\Debug\net8.0\refint\DataAccessObject.dll
+D:\VisualStudio\Group05_SE1851_A02\DataAccessObject\obj\Debug\net8.0\DataAccessObject.pdb
+D:\VisualStudio\Group05_SE1851_A02\DataAccessObject\obj\Debug\net8.0\ref\DataAccessObject.dll

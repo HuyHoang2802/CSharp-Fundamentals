@@ -1,0 +1,75 @@
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\Service\bin\Debug\net8.0\appsettings.json
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\Service\bin\Debug\net8.0\Service.deps.json
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\Service\bin\Debug\net8.0\Service.dll
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\Service\bin\Debug\net8.0\Service.pdb
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\Service\bin\Debug\net8.0\DataAccess.dll
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\Service\bin\Debug\net8.0\Repository.dll
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\Service\bin\Debug\net8.0\Repository.pdb
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\Service\bin\Debug\net8.0\DataAccess.pdb
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\Service\obj\Debug\net8.0\Service.dll
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\Service\obj\Debug\net8.0\refint\Service.dll
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\Service\obj\Debug\net8.0\Service.pdb
+D:\Summer2025\PRN212\ASM\PRN212 Assignment 01\Service\obj\Debug\net8.0\ref\Service.dll
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\bin\Debug\net8.0\appsettings.json
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\bin\Debug\net8.0\Service.deps.json
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\bin\Debug\net8.0\Service.dll
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\bin\Debug\net8.0\Service.pdb
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\bin\Debug\net8.0\DataAccess.dll
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\bin\Debug\net8.0\Repository.dll
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\bin\Debug\net8.0\Repository.pdb
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\bin\Debug\net8.0\DataAccess.pdb
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\obj\Debug\net8.0\Service.sourcelink.json
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\obj\Debug\net8.0\Service.dll
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\obj\Debug\net8.0\refint\Service.dll
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\obj\Debug\net8.0\Service.pdb
+D:\File_Bai_Hoc\PRN201\Project\Asm1\PRN212-Assignment-01\Service\obj\Debug\net8.0\ref\Service.dll
+D:\PRN212\demo\Service\bin\Debug\net8.0\appsettings.json
+D:\PRN212\demo\Service\bin\Debug\net8.0\Service.deps.json
+D:\PRN212\demo\Service\bin\Debug\net8.0\Service.dll
+D:\PRN212\demo\Service\bin\Debug\net8.0\Service.pdb
+D:\PRN212\demo\Service\bin\Debug\net8.0\DataAccess.dll
+D:\PRN212\demo\Service\bin\Debug\net8.0\Repository.dll
+D:\PRN212\demo\Service\bin\Debug\net8.0\Repository.pdb
+D:\PRN212\demo\Service\bin\Debug\net8.0\DataAccess.pdb
+D:\PRN212\demo\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\PRN212\demo\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\demo\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\PRN212\demo\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\PRN212\demo\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\PRN212\demo\Service\obj\Debug\net8.0\Service.sourcelink.json
+D:\PRN212\demo\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+D:\PRN212\demo\Service\obj\Debug\net8.0\Service.dll
+D:\PRN212\demo\Service\obj\Debug\net8.0\refint\Service.dll
+D:\PRN212\demo\Service\obj\Debug\net8.0\Service.pdb
+D:\PRN212\demo\Service\obj\Debug\net8.0\ref\Service.dll
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\bin\Debug\net8.0\appsettings.json
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\bin\Debug\net8.0\Service.deps.json
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\bin\Debug\net8.0\Service.dll
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\bin\Debug\net8.0\Service.pdb
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\bin\Debug\net8.0\DataAccess.dll
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\bin\Debug\net8.0\Repository.dll
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\bin\Debug\net8.0\Repository.pdb
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\bin\Debug\net8.0\DataAccess.pdb
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\obj\Debug\net8.0\Service.sourcelink.json
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\obj\Debug\net8.0\Service.dll
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\obj\Debug\net8.0\refint\Service.dll
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\obj\Debug\net8.0\Service.pdb
+D:\Semester05\PRN212\ASGM01-MiniHotelManagement-LINQ\Service\obj\Debug\net8.0\ref\Service.dll

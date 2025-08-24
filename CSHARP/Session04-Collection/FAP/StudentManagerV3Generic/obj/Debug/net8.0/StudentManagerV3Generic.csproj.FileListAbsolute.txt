@@ -1,0 +1,14 @@
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManagerV3Generic\bin\Debug\net8.0\StudentManagerV3Generic.exe
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManagerV3Generic\bin\Debug\net8.0\StudentManagerV3Generic.deps.json
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManagerV3Generic\bin\Debug\net8.0\StudentManagerV3Generic.runtimeconfig.json
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManagerV3Generic\bin\Debug\net8.0\StudentManagerV3Generic.dll
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManagerV3Generic\bin\Debug\net8.0\StudentManagerV3Generic.pdb
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManagerV3Generic\obj\Debug\net8.0\StudentManagerV3Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManagerV3Generic\obj\Debug\net8.0\StudentManagerV3Generic.AssemblyInfoInputs.cache
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManagerV3Generic\obj\Debug\net8.0\StudentManagerV3Generic.AssemblyInfo.cs
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManagerV3Generic\obj\Debug\net8.0\StudentManagerV3Generic.csproj.CoreCompileInputs.cache
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManagerV3Generic\obj\Debug\net8.0\StudentManagerV3Generic.dll
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManagerV3Generic\obj\Debug\net8.0\refint\StudentManagerV3Generic.dll
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManagerV3Generic\obj\Debug\net8.0\StudentManagerV3Generic.pdb
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManagerV3Generic\obj\Debug\net8.0\StudentManagerV3Generic.genruntimeconfig.cache
+D:\PRN212\CSHARP\Session04-Collection\FAP\StudentManagerV3Generic\obj\Debug\net8.0\ref\StudentManagerV3Generic.dll

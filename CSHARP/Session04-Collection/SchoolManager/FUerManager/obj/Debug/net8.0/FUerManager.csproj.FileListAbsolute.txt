@@ -1,0 +1,14 @@
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\FUerManager\bin\Debug\net8.0\FUerManager.exe
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\FUerManager\bin\Debug\net8.0\FUerManager.deps.json
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\FUerManager\bin\Debug\net8.0\FUerManager.runtimeconfig.json
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\FUerManager\bin\Debug\net8.0\FUerManager.dll
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\FUerManager\bin\Debug\net8.0\FUerManager.pdb
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\FUerManager\obj\Debug\net8.0\FUerManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\FUerManager\obj\Debug\net8.0\FUerManager.AssemblyInfoInputs.cache
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\FUerManager\obj\Debug\net8.0\FUerManager.AssemblyInfo.cs
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\FUerManager\obj\Debug\net8.0\FUerManager.csproj.CoreCompileInputs.cache
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\FUerManager\obj\Debug\net8.0\FUerManager.dll
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\FUerManager\obj\Debug\net8.0\refint\FUerManager.dll
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\FUerManager\obj\Debug\net8.0\FUerManager.pdb
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\FUerManager\obj\Debug\net8.0\FUerManager.genruntimeconfig.cache
+D:\PRN212\CSHARP\Session04-Collection\SchoolManager\FUerManager\obj\Debug\net8.0\ref\FUerManager.dll
