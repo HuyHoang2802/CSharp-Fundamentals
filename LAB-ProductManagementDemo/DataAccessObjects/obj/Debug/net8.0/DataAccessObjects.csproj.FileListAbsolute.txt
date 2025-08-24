@@ -1,0 +1,14 @@
+D:\PRN212\Lab_Assignment_PRN212\Lab\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.deps.json
+D:\PRN212\Lab_Assignment_PRN212\Lab\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.runtimeconfig.json
+D:\PRN212\Lab_Assignment_PRN212\Lab\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.dll
+D:\PRN212\Lab_Assignment_PRN212\Lab\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.pdb
+D:\PRN212\Lab_Assignment_PRN212\Lab\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.AssemblyReference.cache
+D:\PRN212\Lab_Assignment_PRN212\Lab\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Lab_Assignment_PRN212\Lab\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfoInputs.cache
+D:\PRN212\Lab_Assignment_PRN212\Lab\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfo.cs
+D:\PRN212\Lab_Assignment_PRN212\Lab\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+D:\PRN212\Lab_Assignment_PRN212\Lab\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.dll
+D:\PRN212\Lab_Assignment_PRN212\Lab\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\refint\DataAccessObjects.dll
+D:\PRN212\Lab_Assignment_PRN212\Lab\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.pdb
+D:\PRN212\Lab_Assignment_PRN212\Lab\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.genruntimeconfig.cache
+D:\PRN212\Lab_Assignment_PRN212\Lab\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\ref\DataAccessObjects.dll

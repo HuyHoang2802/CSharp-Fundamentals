@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212\\Lab_Assignment_PRN212\\ProductManagementDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A56740D6-E0B6-4F81-8A7D-0A1DC023D20E}|ProductManagement\\ProductManagement.csproj|d:\\prn212\\lab_assignment_prn212\\productmanagementdemo\\productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56740D6-E0B6-4F81-8A7D-0A1DC023D20E}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56740D6-E0B6-4F81-8A7D-0A1DC023D20E}|ProductManagement\\ProductManagement.csproj|d:\\prn212\\lab_assignment_prn212\\productmanagementdemo\\productmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A56740D6-E0B6-4F81-8A7D-0A1DC023D20E}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF563A37-B576-43E5-8652-89B6C56A2EC5}|DataAccessObjects\\DataAccessObjects.csproj|d:\\prn212\\lab_assignment_prn212\\productmanagementdemo\\dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF563A37-B576-43E5-8652-89B6C56A2EC5}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B62B290-712A-4A4F-BAE6-1AA4DB11F228}|BusinessObjects\\BusinessObjects.csproj|d:\\prn212\\lab_assignment_prn212\\productmanagementdemo\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B62B290-712A-4A4F-BAE6-1AA4DB11F228}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56740D6-E0B6-4F81-8A7D-0A1DC023D20E}|ProductManagement\\ProductManagement.csproj|d:\\prn212\\lab_assignment_prn212\\productmanagementdemo\\productmanagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56740D6-E0B6-4F81-8A7D-0A1DC023D20E}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56740D6-E0B6-4F81-8A7D-0A1DC023D20E}|ProductManagement\\ProductManagement.csproj|d:\\prn212\\lab_assignment_prn212\\productmanagementdemo\\productmanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A56740D6-E0B6-4F81-8A7D-0A1DC023D20E}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "D:\\PRN212\\Lab_Assignment_PRN212\\ProductManagementDemo\\DataAccessObjects\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\AccountDAO.cs",
+              "ToolTip": "D:\\PRN212\\Lab_Assignment_PRN212\\ProductManagementDemo\\DataAccessObjects\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\AccountDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T09:33:05.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\PRN212\\Lab_Assignment_PRN212\\ProductManagementDemo\\BusinessObjects\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
+              "ToolTip": "D:\\PRN212\\Lab_Assignment_PRN212\\ProductManagementDemo\\BusinessObjects\\Product.cs",
+              "RelativeToolTip": "BusinessObjects\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:10:37.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\Lab_Assignment_PRN212\\ProductManagementDemo\\ProductManagement\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\Lab_Assignment_PRN212\\ProductManagementDemo\\ProductManagement\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ProductManagement\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T02:58:51.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\Lab_Assignment_PRN212\\ProductManagementDemo\\ProductManagement\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\Lab_Assignment_PRN212\\ProductManagementDemo\\ProductManagement\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ProductManagement\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T02:50:51.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Lab_Assignment_PRN212\\ProductManagementDemo\\ProductManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ProductManagement\\MainWindow.xaml",
+              "ToolTip": "D:\\PRN212\\Lab_Assignment_PRN212\\ProductManagementDemo\\ProductManagement\\MainWindow.xaml",
+              "RelativeToolTip": "ProductManagement\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-11T02:48:48.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Lab_Assignment_PRN212\\ProductManagementDemo\\ProductManagement\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ProductManagement\\LoginWindow.xaml",
+              "ToolTip": "D:\\PRN212\\Lab_Assignment_PRN212\\ProductManagementDemo\\ProductManagement\\LoginWindow.xaml",
+              "RelativeToolTip": "ProductManagement\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-11T02:48:47.41Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
